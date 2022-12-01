@@ -1,0 +1,4 @@
+1. first created my folder in my desktop and opened it in my vs code editor
+2. runned npx create-react-app my-project
+3. cd to my-project directory
+4. npm start to open the project in my browser
