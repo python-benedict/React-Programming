@@ -3,12 +3,11 @@ import './App.css';
 import Hello from './components/Hello';
 import Message from './components/Message';
 import Profile from './components/profile';
+import Counter from './components/counter';
 function App() {
   return (
     <div className="App">
-      <Hello/>
-      <Message name="Kwabena Sefa Kobby"/>
-      <Profile name="Osei Sefa"/>
+      <Counter></Counter>
     </div>
   );
 }
