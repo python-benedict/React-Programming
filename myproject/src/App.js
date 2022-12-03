@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Hello/>
-      <Message/>
+      <Message name="Kwabena Sefa Kobby"/>
       <Profile name="Osei Sefa"/>
     </div>
   );
