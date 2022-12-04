@@ -14,10 +14,11 @@ import './App.css';
 // import FuncStaRend from './components/conditionalRendering';
 // import CondiRendUsingElements from './components/conditionalRenderingUsingElementVariables';
 import TernaryCondition from './components/ternaryconditional';
+import Mapp from './components/map';
 function App() {
   return (
     <div className="App">
-      <TernaryCondition />
+      <Mapp />
     </div>
   );
 }
