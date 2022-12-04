@@ -10,11 +10,12 @@ import './App.css';
 // import Ehicbc from './components/event-handling-in-class-base-component';
 // import Bind from './components/binding';
 // import FunctionalState from './components/functionalState';
-import FunctionalStateDecreament from './components/functionalStateDecreament';
+// import FunctionalStateDecreament from './components/functionalStateDecreament';
+import FuncStaRend from './components/conditionalRendering';
 function App() {
   return (
     <div className="App">
-      <FunctionalStateDecreament />
+      <FuncStaRend />
     </div>
   );
 }
