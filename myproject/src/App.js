@@ -12,11 +12,12 @@ import './App.css';
 // import FunctionalState from './components/functionalState';
 // import FunctionalStateDecreament from './components/functionalStateDecreament';
 // import FuncStaRend from './components/conditionalRendering';
-import CondiRendUsingElements from './components/conditionalRenderingUsingElementVariables';
+// import CondiRendUsingElements from './components/conditionalRenderingUsingElementVariables';
+import TernaryCondition from './components/ternaryconditional';
 function App() {
   return (
     <div className="App">
-      <CondiRendUsingElements />
+      <TernaryCondition />
     </div>
   );
 }
