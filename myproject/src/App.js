@@ -11,11 +11,12 @@ import './App.css';
 // import Bind from './components/binding';
 // import FunctionalState from './components/functionalState';
 // import FunctionalStateDecreament from './components/functionalStateDecreament';
-import FuncStaRend from './components/conditionalRendering';
+// import FuncStaRend from './components/conditionalRendering';
+import CondiRendUsingElements from './components/conditionalRenderingUsingElementVariables';
 function App() {
   return (
     <div className="App">
-      <FuncStaRend />
+      <CondiRendUsingElements />
     </div>
   );
 }
