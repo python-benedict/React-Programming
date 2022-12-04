@@ -13,12 +13,13 @@ import './App.css';
 // import FunctionalStateDecreament from './components/functionalStateDecreament';
 // import FuncStaRend from './components/conditionalRendering';
 // import CondiRendUsingElements from './components/conditionalRenderingUsingElementVariables';
-import TernaryCondition from './components/ternaryconditional';
-import Mapp from './components/map';
+// import TernaryCondition from './components/ternaryconditional';
+import Mapp1 from './components/map1';
+// import Mapp from './components/map';
 function App() {
   return (
     <div className="App">
-      <Mapp />
+      <Mapp1 />
     </div>
   );
 }
